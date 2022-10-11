@@ -32,6 +32,8 @@ The challenge here is that I created a restaurant app with Riverpod Architecture
 
 I, use Rivderpod as my State Management, Dependency Injection, and Service Locator.. To see what Dependencies I created, you can see [here](#dependencies).
 
+for the submission 2, i add the API Service into this project using dio, and then i use NetworkExceptions to handle the exceptions.
+
 ## Installation
 
 Clone or Download and Open it into Android Studio, VSCode, or Other IDE / Text Editor
@@ -41,15 +43,16 @@ https://github.com/Adithya-13/Restr.git
 
 ## Demo
 
-|Dashboard|Detail Restaurant|Search Restaurant|
-|--|--|--|
-|![](demo/dashboard.gif)|![](demo/detail.gif)|![](demo/search.gif)|
+|Dashboard|Detail Restaurant|Search Restaurant|Add Review|
+|--|--|--|--|
+|![](demo/dashboard.gif)|![](demo/detail.gif)|![](demo/search.gif)|![](demo/add-review.gif)|
 
 ## Features
 - Splash
 - Dashboard
 - Search
 - Detail Restaurant
+- Add Review
 
 ## Tech Stack
 - [Riverpod Architecture](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/)
@@ -61,6 +64,10 @@ https://github.com/Adithya-13/Restr.git
 - [Flutter Riverpod](https://pub.dev/packages/flutter_riverpod)
 - [Lottie](https://pub.dev/packages/lottie)
 - [Readmore](https://pub.dev/packages/readmore)
+- [Freezed](https://pub.dev/packages/freezed)
+- [Dio](https://pub.dev/packages/dio)
+- [RxDart](https://pub.dev/packages/rxdart)
+- [Modal Bottom Sheet](https://pub.dev/packages/modal_bottom_sheet)
 
 
 
