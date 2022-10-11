@@ -1,5 +1,5 @@
 <h1 align="center">
-  Restr
+  Restr Submission 1
 </h1>
 <p align="center">
   Restaurant App (Submission Flutter Fundamental Dicoding)
